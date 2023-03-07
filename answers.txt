@@ -1,0 +1,16 @@
+Question 1:
+>
+
+Question 2:
+> it uses username and password authentication
+
+
+Question 3:
+> the token is provided by the server and then checked for the token validity when authenticating
+> it is better because its not static like username and password unless the user changes it
+
+Question 4:
+> during OAuth2, the main server/app verifies user's credentials with Google
+
+Question 5:
+https://github.com/sahasukanta/authentication-lab
