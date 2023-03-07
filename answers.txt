@@ -1,5 +1,5 @@
 Question 1:
->
+> Basic authentication using username and password. 
 
 Question 2:
 > it uses username and password authentication
