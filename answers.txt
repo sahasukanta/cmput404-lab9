@@ -13,4 +13,4 @@ Question 4:
 > during OAuth2, the main server/app verifies user's credentials with Google
 
 Question 5:
-https://github.com/sahasukanta/authentication-lab
+https://github.com/sahasukanta/cmput404-lab9
